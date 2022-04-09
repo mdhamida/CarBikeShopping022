@@ -16,7 +16,7 @@ const fewCar = () => {
     <div class="card-body">
       <h5 class="card-title">Maruti Vitara Brezza</h5>
       <p class="card-text">Diwali offers</p>
-      <button type="button" class="btn btn-danger">Rs.7.62 Lakh.</button>
+      <button type="button" class="danger">Rs.7.62 Lakh.</button>
      
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>

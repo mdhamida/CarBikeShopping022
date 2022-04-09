@@ -30,8 +30,18 @@ body{
 color: black;
 }
 .card :hover{
-  background-color: rgba(128, 128, 128, 0.616);
+  
   cursor: pointer;
+ 
 
   
+}
+
+.card-img-top:hover{
+ height: 250px;
+ width: 250px;
+ scale: (2,3);
+ color: yellow;
+ background-color: yellow;
+ 
 }

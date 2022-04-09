@@ -7,7 +7,7 @@ const Navbar = () => {
         
          <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-  <img src="/logo.png" alt="error" width="150" height="30"/>
+  <img src="/logo_car.jpeg" alt="error" width="50" height="30"/>
    
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -15,10 +15,11 @@ const Navbar = () => {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="newCar" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Cars
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <li><a class="dropdown-item" href="/">Cars</a></li>
             <li><a class="dropdown-item" href="/newCar">New Cars</a></li>
             <li><a class="dropdown-item" href="/fCar">Find New Cars</a></li>
             <li><a class="dropdown-item" href="/pCar">Popular Cars</a></li>
@@ -40,10 +41,11 @@ const Navbar = () => {
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="/bike" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Bike
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <li><a class="dropdown-item" href="/bike">Bikes</a></li>
           <li><a class="dropdown-item" href="/nBike">New Bikes</a></li>
             <li><a class="dropdown-item" href="/fBike">Find New Bikes</a></li>
             <li><a class="dropdown-item" href="/pBike">Popular Bike</a></li>
