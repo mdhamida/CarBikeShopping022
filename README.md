@@ -2,8 +2,7 @@
    
    ### frontend
    
-   ###### NEXTJS
-   ###### HTML
+   ###### NEXTJS ###### HTML
    ###### CSS
    ###### JAVASCRIPT
    ###### BOOTSTRAP5
