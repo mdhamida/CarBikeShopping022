@@ -1,18 +1,18 @@
 # project screenshot 
    
-   ## frontend
+   ### frontend
    
-   ### NEXTJS
-   ### HTML
-   ### CSS
-   ### JAVASCRIPT
-   ### BOOTSTRAP5
+   #### NEXTJS
+   #### HTML
+   #### CSS
+   #### JAVASCRIPT
+   #### BOOTSTRAP5
    
 >SNAPSHOT OF NAVBAAR
 
 ![c1](https://user-images.githubusercontent.com/88300530/162602385-2e3d0920-914e-41c5-8b8c-625b72c3eef7.png)
 
-
+>NEW CAR SNAPSHOT
 ![c2](https://user-images.githubusercontent.com/88300530/162602390-3e4b4fe8-8a04-4650-8420-23145f5d8e86.png)
 
 ![c6](https://user-images.githubusercontent.com/88300530/162602395-1439c779-d690-4a7b-9c30-061587594595.png)
