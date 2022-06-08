@@ -2,7 +2,8 @@
    
    ### frontend
    
-   ###### NEXTJS ###### HTML
+   ###### NEXTJS
+   ###### HTML
    ###### CSS
    ###### JAVASCRIPT
    ###### BOOTSTRAP5
@@ -49,4 +50,6 @@
 
 #### LEARN FROM THIS PROJECT ABOUT NEXTJS USES AND HTML CSS JAVASCRIT AND BOOTSTARP..... THIS WEBSITE IS RESPONSIVE WEBSITE 
 #### WE CAN RUN THIS PROJECT ON THE PHONE ........
-### done .....
+### done 
+
+# THANKS FOR VISITING 
