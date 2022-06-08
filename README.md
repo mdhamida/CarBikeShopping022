@@ -2,11 +2,11 @@
    
    ### frontend
    
-   ##### NEXTJS
-   ##### HTML
-   ##### CSS
-   ##### JAVASCRIPT
-   ##### BOOTSTRAP5
+   ###### NEXTJS
+   ###### HTML
+   ###### CSS
+   ###### JAVASCRIPT
+   ###### BOOTSTRAP5
    
 >SNAPSHOT OF NAVBAAR
 
@@ -15,11 +15,15 @@
 >NEW CAR SNAPSHOT.............................................................
 ![c2](https://user-images.githubusercontent.com/88300530/162602390-3e4b4fe8-8a04-4650-8420-23145f5d8e86.png)
 
->ELECTRIC CARS.................................................................
+>ELECTRIC CARS SNAPSHOT.................................................................
 
 ![c6](https://user-images.githubusercontent.com/88300530/162602395-1439c779-d690-4a7b-9c30-061587594595.png)
 
+>BIKE SNAPSHOT...........................................................................
+
 ![c7](https://user-images.githubusercontent.com/88300530/162602415-dc0b19e0-92e8-435c-a19c-9174d759c157.png)
+
+>NEW BIKES SNAPSHOT
 
 ![c8](https://user-images.githubusercontent.com/88300530/162602418-552653e1-1167-44fa-b931-f35c7216760e.png)
 
@@ -33,6 +37,6 @@
 
 ![login](https://user-images.githubusercontent.com/88300530/162602849-be681b19-0e3b-48ad-8748-886040c567b5.png)
 
-## LEARN FROM THIS PROJECT ABOUT NEXTJS USES AND HTML CSS JAVASCRIT AND BOOTSTARP..... THIS WEBSITE IS RESPONSIVE WEBSITE 
-## WE CAN RUN THIS PROJECT ON THE PHONE ........
-# done .....
+#### LEARN FROM THIS PROJECT ABOUT NEXTJS USES AND HTML CSS JAVASCRIT AND BOOTSTARP..... THIS WEBSITE IS RESPONSIVE WEBSITE 
+#### WE CAN RUN THIS PROJECT ON THE PHONE ........
+### done .....
