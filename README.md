@@ -27,7 +27,11 @@
 
 ![c8](https://user-images.githubusercontent.com/88300530/162602418-552653e1-1167-44fa-b931-f35c7216760e.png)
 
+>ELECTRIC BIKE SNAPSHOT...........................................................
+
 ![c9](https://user-images.githubusercontent.com/88300530/162602424-68904343-9cd0-421c-906d-3ecb91e5ed1e.png)
+
+>ELECTRIC SCOOTER SNAPSHOT........................................................
 
 ![c13](https://user-images.githubusercontent.com/88300530/162602439-1101b0c8-a792-4767-af16-85ca837bd54e.png)
 
