@@ -1,6 +1,17 @@
 # project screenshot 
+   
+   ## frontend
+   
+   ### NEXTJS
+   ### HTML
+   ### CSS
+   ### JAVASCRIPT
+   ### BOOTSTRAP5
+   
+>SNAPSHOT OF NAVBAAR
 
 ![c1](https://user-images.githubusercontent.com/88300530/162602385-2e3d0920-914e-41c5-8b8c-625b72c3eef7.png)
+
 
 ![c2](https://user-images.githubusercontent.com/88300530/162602390-3e4b4fe8-8a04-4650-8420-23145f5d8e86.png)
 
@@ -20,5 +31,6 @@
 
 ![login](https://user-images.githubusercontent.com/88300530/162602849-be681b19-0e3b-48ad-8748-886040c567b5.png)
 
-
+## LEARN FROM THIS PROJECT ABOUT NEXTJS USES AND HTML CSS JAVASCRIT AND BOOTSTARP..... THIS WEBSITE IS RESPONSIVE WEBSITE 
+## WE CAN RUN THIS PROJECT ON THE PHONE ........
 # done .....
